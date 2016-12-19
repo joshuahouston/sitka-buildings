@@ -20787,7 +20787,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='404' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Oja WAY' />
+    <tag k='addr:street' v='Oja Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='11.10' />
     <tag k='height' v='5.70' />
@@ -20801,7 +20801,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='406' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Oja WAY' />
+    <tag k='addr:street' v='Oja Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='11.10' />
     <tag k='height' v='5.60' />
@@ -20815,7 +20815,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='408' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Oja WAY' />
+    <tag k='addr:street' v='Oja Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='11.50' />
     <tag k='height' v='8.00' />
@@ -21290,7 +21290,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='206' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Princess WAY' />
+    <tag k='addr:street' v='Princess Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='15.70' />
     <tag k='height' v='6.50' />
@@ -21304,7 +21304,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='204' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Princess WAY' />
+    <tag k='addr:street' v='Princess Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='15.00' />
     <tag k='height' v='5.40' />
@@ -21318,7 +21318,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='205' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Princess WAY' />
+    <tag k='addr:street' v='Princess Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.60' />
     <tag k='height' v='4.60' />
@@ -21461,7 +21461,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='306' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Tliingit WAY' />
+    <tag k='addr:street' v='Tlingit Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='21.30' />
     <tag k='height' v='7.20' />
@@ -21478,7 +21478,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='302' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Tliingit WAY' />
+    <tag k='addr:street' v='Tlingit Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='21.80' />
     <tag k='height' v='5.70' />
@@ -21494,7 +21494,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='304' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Tliingit WAY' />
+    <tag k='addr:street' v='Tlingit Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='20.80' />
     <tag k='height' v='5.90' />
@@ -21512,7 +21512,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='311' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Tliingit WAY' />
+    <tag k='addr:street' v='Tlingit Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='20.00' />
     <tag k='height' v='7.60' />
@@ -21526,7 +21526,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='305' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Tliingit WAY' />
+    <tag k='addr:street' v='Tlingit Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='16.10' />
     <tag k='height' v='8.70' />
@@ -21540,7 +21540,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='307' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Tliingit WAY' />
+    <tag k='addr:street' v='Tlingit Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='17.80' />
     <tag k='height' v='6.20' />
@@ -22757,7 +22757,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='202' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Princess WAY' />
+    <tag k='addr:street' v='Princess Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.90' />
     <tag k='height' v='5.60' />
@@ -25455,7 +25455,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='722' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Siginaka WAY' />
+    <tag k='addr:street' v='Siginaka Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='6.20' />
     <tag k='height' v='5.80' />
@@ -25471,7 +25471,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='720' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Siginaka WAY' />
+    <tag k='addr:street' v='Siginaka Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='8.00' />
     <tag k='height' v='5.20' />
@@ -25485,7 +25485,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='726' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Siginaka WAY' />
+    <tag k='addr:street' v='Siginaka Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='5.40' />
     <tag k='height' v='11.10' />
@@ -25503,7 +25503,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='724' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Siginaka WAY' />
+    <tag k='addr:street' v='Siginaka Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='4.90' />
     <tag k='height' v='8.40' />
@@ -25545,7 +25545,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='729' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Siginaka WAY' />
+    <tag k='addr:street' v='Siginaka Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='3.40' />
     <tag k='height' v='1.80' />
@@ -25559,7 +25559,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='727' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Siginaka WAY' />
+    <tag k='addr:street' v='Siginaka Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='5.20' />
     <tag k='height' v='3.40' />
@@ -26792,7 +26792,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='406' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Hollywood WAY' />
+    <tag k='addr:street' v='Hollywood Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='11.60' />
     <tag k='height' v='5.70' />
@@ -26875,7 +26875,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='405' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Etolin WAY' />
+    <tag k='addr:street' v='Etolin Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='9.60' />
     <tag k='height' v='4.40' />
@@ -26889,7 +26889,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='407' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Etolin WAY' />
+    <tag k='addr:street' v='Etolin Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='9.80' />
     <tag k='height' v='5.50' />
@@ -27056,7 +27056,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='404' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Etolin WAY' />
+    <tag k='addr:street' v='Etolin Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='8.10' />
     <tag k='height' v='3.20' />
@@ -27070,7 +27070,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='402' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Etolin WAY' />
+    <tag k='addr:street' v='Etolin Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='8.00' />
     <tag k='height' v='3.20' />
@@ -27102,7 +27102,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='406' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Etolin WAY' />
+    <tag k='addr:street' v='Etolin Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='8.30' />
     <tag k='height' v='8.30' />
@@ -30694,7 +30694,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='103' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Cathedral WAY' />
+    <tag k='addr:street' v='Cathedral Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.50' />
     <tag k='height' v='7.40' />
@@ -31383,7 +31383,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='418' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Geodetic WAY' />
+    <tag k='addr:street' v='Geodetic Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='16.30' />
     <tag k='height' v='7.50' />
@@ -31397,7 +31397,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='416' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Geodetic WAY' />
+    <tag k='addr:street' v='Geodetic Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='16.90' />
     <tag k='height' v='7.10' />
@@ -32134,7 +32134,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='414' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Hollywood WAY' />
+    <tag k='addr:street' v='Hollywood Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='11.90' />
     <tag k='height' v='4.00' />
@@ -32148,7 +32148,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='411' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Hollywood WAY' />
+    <tag k='addr:street' v='Hollywood Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='11.90' />
     <tag k='height' v='5.70' />
@@ -32162,7 +32162,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='415' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Hollywood WAY' />
+    <tag k='addr:street' v='Hollywood Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.00' />
     <tag k='height' v='3.80' />
@@ -32574,7 +32574,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='404' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Hollywood WAY' />
+    <tag k='addr:street' v='Hollywood Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='11.30' />
     <tag k='height' v='5.50' />
@@ -32930,7 +32930,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='608' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Geodetic WAY' />
+    <tag k='addr:street' v='Geodetic Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.40' />
     <tag k='height' v='7.90' />
@@ -33148,7 +33148,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='504' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Geodetic WAY' />
+    <tag k='addr:street' v='Geodetic Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='19.90' />
     <tag k='height' v='7.40' />
@@ -37358,7 +37358,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='113' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Harvest WAY' />
+    <tag k='addr:street' v='Harvest Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.30' />
     <tag k='height' v='9.50' />
@@ -37486,7 +37486,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='120' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Harvest WAY' />
+    <tag k='addr:street' v='Harvest Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='13.80' />
     <tag k='height' v='8.10' />
@@ -37502,7 +37502,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='116' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Harvest WAY' />
+    <tag k='addr:street' v='Harvest Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.80' />
     <tag k='height' v='8.70' />
@@ -37518,7 +37518,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='118' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Harvest WAY' />
+    <tag k='addr:street' v='Harvest Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='13.90' />
     <tag k='height' v='8.30' />
@@ -37534,7 +37534,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='114' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Harvest WAY' />
+    <tag k='addr:street' v='Harvest Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.50' />
     <tag k='height' v='8.70' />
@@ -37852,7 +37852,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='115' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Harvest WAY' />
+    <tag k='addr:street' v='Harvest Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.50' />
     <tag k='height' v='6.10' />
@@ -38254,7 +38254,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='103' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Scarlett WAY' />
+    <tag k='addr:street' v='Scarlett Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='66.30' />
     <tag k='height' v='11.70' />
@@ -38268,7 +38268,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='101' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Scarlett WAY' />
+    <tag k='addr:street' v='Scarlett Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='55.40' />
     <tag k='height' v='6.40' />
@@ -39650,7 +39650,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='1204' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Beardslee WAY' />
+    <tag k='addr:street' v='Beardslee Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='21.60' />
     <tag k='height' v='1.20' />
@@ -39838,7 +39838,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='117' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Harvest WAY' />
+    <tag k='addr:street' v='Harvest Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.70' />
     <tag k='height' v='7.60' />
@@ -39870,7 +39870,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='111' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Harvest WAY' />
+    <tag k='addr:street' v='Harvest Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='11.60' />
     <tag k='height' v='7.90' />
@@ -42314,7 +42314,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='110' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Eagle WAY' />
+    <tag k='addr:street' v='Eagle Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='5.90' />
     <tag k='height' v='6.30' />
@@ -42330,7 +42330,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='104' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Eagle WAY' />
+    <tag k='addr:street' v='Eagle Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='5.90' />
     <tag k='height' v='5.10' />
@@ -53037,7 +53037,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='108' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='18.70' />
     <tag k='height' v='7.80' />
@@ -53051,7 +53051,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='112' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='25.00' />
     <tag k='height' v='6.80' />
@@ -53079,7 +53079,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='125' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='25.40' />
     <tag k='height' v='7.20' />
@@ -53093,7 +53093,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='127' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='25.90' />
     <tag k='height' v='7.10' />
@@ -53107,7 +53107,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='126' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='24.30' />
     <tag k='height' v='4.00' />
@@ -53121,7 +53121,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='101' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='20.50' />
     <tag k='height' v='8.90' />
@@ -53166,7 +53166,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='107' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='24.40' />
     <tag k='height' v='7.00' />
@@ -54449,7 +54449,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='1802' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Alder WAY' />
+    <tag k='addr:street' v='Alder Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='5.60' />
     <tag k='height' v='6.40' />
@@ -54463,7 +54463,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='1804' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Alder WAY' />
+    <tag k='addr:street' v='Alder Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='5.50' />
     <tag k='height' v='6.20' />
@@ -54477,7 +54477,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='1806' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Alder WAY' />
+    <tag k='addr:street' v='Alder Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='5.70' />
     <tag k='height' v='5.90' />
@@ -54491,7 +54491,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='1805' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Alder WAY' />
+    <tag k='addr:street' v='Alder Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='7.70' />
     <tag k='height' v='9.60' />
@@ -54505,7 +54505,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='1803' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Alder WAY' />
+    <tag k='addr:street' v='Alder Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='8.10' />
     <tag k='height' v='9.40' />
@@ -54519,7 +54519,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='1801' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Alder WAY' />
+    <tag k='addr:street' v='Alder Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='7.70' />
     <tag k='height' v='9.80' />
@@ -54564,7 +54564,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='725' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Siginaka WAY' />
+    <tag k='addr:street' v='Siginaka Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='5.00' />
     <tag k='height' v='3.70' />
@@ -54862,7 +54862,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='130' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='24.90' />
     <tag k='height' v='6.90' />
@@ -54890,7 +54890,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='137' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='23.00' />
     <tag k='height' v='7.20' />
@@ -54932,7 +54932,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='131' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='23.80' />
     <tag k='height' v='7.00' />
@@ -54946,7 +54946,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='132' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='27.90' />
     <tag k='height' v='7.90' />
@@ -54980,7 +54980,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='135' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='22.30' />
     <tag k='height' v='6.10' />
@@ -54996,7 +54996,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='105' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='20.90' />
     <tag k='height' v='7.50' />
@@ -55161,7 +55161,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='140' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Shelikof WAY' />
+    <tag k='addr:street' v='Shelikof Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='27.10' />
     <tag k='height' v='5.60' />
@@ -64869,7 +64869,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='102' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Remington WAY' />
+    <tag k='addr:street' v='Remington Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='32.60' />
     <tag k='height' v='3.40' />
@@ -64897,7 +64897,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='106' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Remington WAY' />
+    <tag k='addr:street' v='Remington Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='30.50' />
     <tag k='height' v='6.80' />
@@ -64925,7 +64925,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='104' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Remington WAY' />
+    <tag k='addr:street' v='Remington Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='32.80' />
     <tag k='height' v='3.70' />
@@ -64989,7 +64989,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='100' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Winchester WAY' />
+    <tag k='addr:street' v='Winchester Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='16.10' />
     <tag k='height' v='9.10' />
@@ -65005,7 +65005,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='102' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Winchester WAY' />
+    <tag k='addr:street' v='Winchester Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='12.50' />
     <tag k='height' v='8.10' />
@@ -65049,7 +65049,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='101' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Winchester WAY' />
+    <tag k='addr:street' v='Winchester Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='24.30' />
     <tag k='height' v='9.10' />
@@ -65093,7 +65093,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='104' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Winchester WAY' />
+    <tag k='addr:street' v='Winchester Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='19.70' />
     <tag k='height' v='9.90' />
@@ -69345,7 +69345,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='101' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='21.90' />
     <tag k='height' v='7.20' />
@@ -69415,7 +69415,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='107' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='20.80' />
     <tag k='height' v='5.40' />
@@ -69429,7 +69429,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='106' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='23.40' />
     <tag k='height' v='8.80' />
@@ -69475,7 +69475,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='105' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='21.70' />
     <tag k='height' v='3.90' />
@@ -69493,7 +69493,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='104' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='23.20' />
     <tag k='height' v='10.20' />
@@ -69759,7 +69759,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='102' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Kincroft WAY' />
+    <tag k='addr:street' v='Kincroft Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='18.50' />
     <tag k='height' v='8.10' />
@@ -69799,7 +69799,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='108' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Kincroft WAY' />
+    <tag k='addr:street' v='Kincroft Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='22.90' />
     <tag k='height' v='8.10' />
@@ -69813,7 +69813,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='106' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Kincroft WAY' />
+    <tag k='addr:street' v='Kincroft Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='22.70' />
     <tag k='height' v='7.20' />
@@ -69855,7 +69855,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='104' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Kincroft WAY' />
+    <tag k='addr:street' v='Kincroft Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='24.00' />
     <tag k='height' v='7.40' />
@@ -69883,7 +69883,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='112' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='26.90' />
     <tag k='height' v='7.10' />
@@ -69897,7 +69897,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='110' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='24.50' />
     <tag k='height' v='7.30' />
@@ -69911,7 +69911,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='120' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='29.60' />
     <tag k='height' v='7.80' />
@@ -69925,7 +69925,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='130' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='29.20' />
     <tag k='height' v='4.50' />
@@ -69939,7 +69939,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='107' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Kincroft WAY' />
+    <tag k='addr:street' v='Kincroft Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='23.80' />
     <tag k='height' v='5.20' />
@@ -69953,7 +69953,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='141' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='23.40' />
     <tag k='height' v='7.00' />
@@ -69967,7 +69967,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='103' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Kincroft WAY' />
+    <tag k='addr:street' v='Kincroft Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='22.20' />
     <tag k='height' v='6.80' />
@@ -69997,7 +69997,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='100' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Kincroft WAY' />
+    <tag k='addr:street' v='Kincroft Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='18.00' />
     <tag k='height' v='6.50' />
@@ -70011,7 +70011,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='116' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='29.00' />
     <tag k='height' v='4.30' />
@@ -70175,7 +70175,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='140' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Patterson WAY' />
+    <tag k='addr:street' v='Patterson Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='29.00' />
     <tag k='height' v='9.10' />
@@ -72602,7 +72602,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='103' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Littlebyrd WAY' />
+    <tag k='addr:street' v='Littlebyrd Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='20.30' />
     <tag k='height' v='5.40' />
@@ -72616,7 +72616,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='105' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Littlebyrd WAY' />
+    <tag k='addr:street' v='Littlebyrd Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='34.80' />
     <tag k='height' v='9.60' />
@@ -75027,7 +75027,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='104' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Viking WAY' />
+    <tag k='addr:street' v='Viking Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='26.60' />
     <tag k='height' v='9.40' />
@@ -75043,7 +75043,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='106' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Viking WAY' />
+    <tag k='addr:street' v='Viking Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='30.70' />
     <tag k='height' v='7.00' />
@@ -75110,7 +75110,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='102' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Viking WAY' />
+    <tag k='addr:street' v='Viking Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='26.10' />
     <tag k='height' v='6.40' />
@@ -75124,7 +75124,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='103' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Viking WAY' />
+    <tag k='addr:street' v='Viking Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='27.70' />
     <tag k='height' v='5.10' />
@@ -75138,7 +75138,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='105' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Viking WAY' />
+    <tag k='addr:street' v='Viking Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='29.70' />
     <tag k='height' v='6.70' />
@@ -75152,7 +75152,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='101' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Viking WAY' />
+    <tag k='addr:street' v='Viking Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='21.30' />
     <tag k='height' v='7.40' />
@@ -75240,7 +75240,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='102' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Viking WAY' />
+    <tag k='addr:street' v='Viking Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='24.40' />
     <tag k='height' v='5.20' />
@@ -75426,7 +75426,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='101' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Pirates WAY' />
+    <tag k='addr:street' v='Pirates Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='13.70' />
     <tag k='height' v='4.20' />
@@ -75678,7 +75678,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='102' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Horizon WAY' />
+    <tag k='addr:street' v='Horizon Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='22.50' />
     <tag k='height' v='6.10' />
@@ -75700,7 +75700,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='104' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Clothilde Bahovec WAY' />
+    <tag k='addr:street' v='Clothilde Bahovec Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='29.40' />
     <tag k='height' v='7.20' />
@@ -75716,7 +75716,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='106' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Clothilde Bahovec WAY' />
+    <tag k='addr:street' v='Clothilde Bahovec Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='30.20' />
     <tag k='height' v='10.20' />
@@ -75758,7 +75758,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='103' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Horizon WAY' />
+    <tag k='addr:street' v='Horizon Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='29.50' />
     <tag k='height' v='7.90' />
@@ -75790,7 +75790,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='104' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Horizon WAY' />
+    <tag k='addr:street' v='Horizon Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='30.20' />
     <tag k='height' v='7.60' />
@@ -75840,7 +75840,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='102' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Clothilde Bahovec WAY' />
+    <tag k='addr:street' v='Clothilde Bahovec Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='16.70' />
     <tag k='height' v='7.90' />
@@ -75854,7 +75854,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='100' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Clothilde Bahovec WAY' />
+    <tag k='addr:street' v='Clothilde Bahovec Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='15.00' />
     <tag k='height' v='8.90' />
@@ -77791,7 +77791,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='107' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Cathedral WAY' />
+    <tag k='addr:street' v='Cathedral Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='10.10' />
     <tag k='height' v='7.10' />
@@ -78205,7 +78205,7 @@
     <tag k='addr:city' v='Sitka' />
     <tag k='addr:housenumber' v='204' />
     <tag k='addr:postcode' v='99835' />
-    <tag k='addr:street' v='Siginaka WAY' />
+    <tag k='addr:street' v='Siginaka Way' />
     <tag k='building' v='yes' />
     <tag k='ele' v='9.50' />
     <tag k='height' v='7.70' />
