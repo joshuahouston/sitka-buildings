@@ -2,7 +2,7 @@
 
 # Update 2017-01-09
 
-The buildings import is complete and this repository will no longer be maintained. The buildings on OpenStreetMap are now the most current source for Sitka's buildings.
+The buildings import is complete and this repository is no longer maintained. OpenStreetMap is now the most current source for Sitka's buildings.
 
 --------
 
