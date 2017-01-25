@@ -17,9 +17,9 @@ node,way      addr:housenumber        text    linear
 node,way      amenity                 text    polygon,nocolumn
 node,way      building                text    polygon,nocolumn
 way           building:part           text    polygon,nocolumn
-way           ele                     real    polygon
+way           ele                     text    polygon
 # node,way    harbour                 text    polygon,nocolumn
-node,way      height                  real    polygon
+node,way      height                  text    polygon
 node,way      historic                text    polygon,nocolumn
 # node,way    landuse                 text    polygon,nocolumn
 # node,way    leisure                 text    polygon,nocolumn
