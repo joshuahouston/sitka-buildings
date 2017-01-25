@@ -7,8 +7,8 @@ The buildings import is complete and this repository is no longer maintained. Op
 To get the latest buildings with elevation and height data use the OpenStreetMap editor JOSM. Select the Sitka area and download. Save the .osm file and use osm2pgsql with the buildings.style included in this repository.
 
 `osm2pgsql -cGs -d osm -S /sitka-buildings/buildings.style ~/Downloads/your_file.osm.`
+This style filters out excess OSM fields that aren't necessary for buildings but other ways will still be present. Use a '"building" is NOT NULL' query to filter out other ways.
 
-This style filter out excess OSM fields that aren't necessary for buildings but other ways will still be present. Use a '"building" is NOT NULL' query to filter out other ways.
 --------
 
 Process for importing Sitka area buildings and addresses to OpenStreetMap with height information
