@@ -11,19 +11,21 @@
 # way         abandoned:building      text    polygon,nocolumn
 # way         abandoned:landuse       text    polygon,nocolumn
 # way         abandoned:power         text    polygon,nocolumn
+node,way      addr:housenumber        text    linear
 # way         area:highway            text    polygon,nocolumn
 # node,way    aeroway                 text    polygon,nocolumn
 node,way      amenity                 text    polygon,nocolumn
 node,way      building                text    polygon,nocolumn
 way           building:part           text    polygon,nocolumn
-way           ele                     text    polygon
+way           ele                     real    polygon
 # node,way    harbour                 text    polygon,nocolumn
-node,way      height                  text    polygon
+node,way      height                  real    polygon
 node,way      historic                text    polygon,nocolumn
 # node,way    landuse                 text    polygon,nocolumn
 # node,way    leisure                 text    polygon,nocolumn
 # node,way    man_made                text    polygon,nocolumn
 # node,way    military                text    polygon,nocolumn
+node,way      name                    text    linear
 # node,way    natural                 text    polygon,nocolumn
 node,way      office                  text    polygon,nocolumn
 # node,way    place                   text    polygon,nocolumn
